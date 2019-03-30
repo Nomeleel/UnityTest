@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Camera.cs" />
     <Compile Include="Assets\Script\Play.cs" />
+    <Compile Include="Assets\Script\rotate.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>P:/Unity Works/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
